@@ -24,9 +24,9 @@ Talk ideato per l'erogazione presso il [Google DSC Sapienza][dsc].
    - Risorse
    - Rapporto tra REST ed HTTP
    - Identificazione risorse
-   - Hypermedia as the engine of the application state (HATEOAS).
+   - Hypermedia as the engine of the application state (HATEOAS)
 4. REST in pratica
-   - Linee guida per l'implementazione di una API.
+   - Linee guida per l'implementazione di una API
 
 ## VOD
 
