@@ -1,5 +1,5 @@
 # REST-talk1 ([PDF][slides])
-Introduzione all'architettura REST per lo sviluppo di API: princìpi e linee guida.
+**Introduzione all'architettura REST per lo sviluppo di API: princìpi e linee guida.**
 
 Talk ideato per l'erogazione presso il [Google DSC Sapienza][dsc].
 
