@@ -1,4 +1,4 @@
-# REST-talk1
+# REST-talk1 ([PDF][slides])
 Introduzione all'architettura REST per lo sviluppo di API: princìpi e linee guida.
 
 Talk ideato per l'erogazione presso il [Google DSC Sapienza][dsc].
@@ -38,6 +38,7 @@ Questo lavoro è protetto da licenza [Creative Commons Attribution 4.0 Internati
 
 Informazioni di contatto: Emanuele Giona ([GitHub][gh], [Twitter][twitter], [LinkedIn][linkedin]).
 
+[slides]: ./slides.pdf
 [license]: https://creativecommons.org/licenses/by/4.0/
 [gh]: https://github.com/emanuelegiona
 [twitter]: https://twitter.com/emanuele_giona
