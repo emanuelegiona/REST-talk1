@@ -3,7 +3,7 @@
 
 Talk ideato per l'erogazione presso il [Google DSC Sapienza][dsc].
 
-`VOD` il talk sarà erogato in live streaming tramite YouTube; successivamente, il VOD sarà caricato sul canale YouTube ufficiale [DSC Sapienza][dsc-yt].
+`VOD` [Clicca qui per il VOD][dsc-yt].
 
 `Nota` un workshop per lo sviluppo di una API REST sarà sviluppato in seguito; gli aggiornamenti saranno riportati anche in questo repository.
 
@@ -44,5 +44,5 @@ Informazioni di contatto: Emanuele Giona ([GitHub][gh], [Twitter][twitter], [Lin
 [twitter]: https://twitter.com/emanuele_giona
 [linkedin]: https://www.linkedin.com/in/emanuelegiona
 [dsc]: https://github.com/DSC-Sapienza
-[dsc-yt]: TODO
+[dsc-yt]: https://www.youtube.com/watch?v=6N0cCmXYh7Q
 [rest-talk2]: TODO
