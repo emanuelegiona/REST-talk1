@@ -28,10 +28,6 @@ Talk ideato per l'erogazione presso il [Google DSC Sapienza][dsc].
 4. REST in pratica
    - Linee guida per l'implementazione di una API
 
-## VOD
-
-Il live streaming deve ancora avvenire.
-
 # Licenza
 
 Questo lavoro è protetto da licenza [Creative Commons Attribution 4.0 International][license].
